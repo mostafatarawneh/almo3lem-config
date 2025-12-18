@@ -1,6 +1,8 @@
 {
-    "latest_version": "2.1.6",
-    "update_url": "https://github.com/Anas-jaf/almo3lem_releases/releases/download/2.1.6_light/almo3lem_setup_light.exe",
-    "message": "يوجد تحديث جديد يحتوي على تحسينات وأصلاحات.",
-    "is_active":true
+  "latest_version": "main",
+  "update_url": "https://github.com/Anas-jaf/almo3lem_releases/releases/download/2.1.6_light/almo3lem_setup_light.exe",
+  "message": "يوجد تحديث جديد يحتوي على تحسينات وأصلاحات.",
+  "is_active": true,
+  "download_url": "https://github.com/Anas-jaf/almo3lem_releases/releases/download/main/almo3lem-desktop-main-setup.exe",
+  "sha256": "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
 }
